@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Converter</string>
+    <string name="data">Данные</string>
+    <string name="energy">Энергия</string>
+    <string name="length">Длина</string>
+    <string name="weight">Вес</string>
+    <string name="kilometr">Километр</string>
+    <string name="mili">Мили</string>
+    <string name="metr">Метр</string>
+    <string name="One">One</string>
+    <string name="Two">Two</string>
+    <string name="convert">Convert</string>
+</resources>
